@@ -1,5 +1,3 @@
-// Write your code here
-
 let num1 = 2,
   num2 = 31,
   num3 = 2,
